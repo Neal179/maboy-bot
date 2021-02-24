@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="967df08f-ac20-4f66-9bf2-abadaa231fd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MaBot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="967df08f-ac20-4f66-9bf2-abadaa231fd8" name="Default Changelist" comment="Add (all) Добавил бот" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,8 +56,16 @@
       <workItem from="1614097789195" duration="1688000" />
       <workItem from="1614104156688" duration="1599000" />
       <workItem from="1614106435908" duration="479000" />
-      <workItem from="1614151879539" duration="31038000" />
+      <workItem from="1614151879539" duration="31349000" />
     </task>
+    <task id="LOCAL-00001" summary="Add (all) Добавил бот">
+      <created>1614190479897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614190479897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add (all) Добавил бот" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add (all) Добавил бот" />
   </component>
 </project>
